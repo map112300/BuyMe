@@ -9,15 +9,4 @@ Contents:
 	README.md
 	project_demo.mp4 - The demo of the project in action
 
-Admin Credentials: 
-  username: admin@cs
-  password: password123
-
-Customer Representatives (Can be added by admin account, two samples have been created):
-  username: test2@rut
-  password: password000
-
-  username: test3@rut
-  password: password999
-
 Functionality Video Link: https://drive.google.com/file/d/1Kp9Bdw6uRb7EBT0rbVw6GQb53wm-yUiV/view?usp=gmail
