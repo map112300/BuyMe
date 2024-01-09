@@ -1,4 +1,5 @@
 # BuyMe
+```
 Contents:
 	Group5_projectCode - The project code
 	BuyMe.sql - The sql file for our DB schema
@@ -8,3 +9,4 @@ Contents:
 	project_demo.mp4 - The demo of the project in action
 
 Functionality Video Link: https://drive.google.com/file/d/1Kp9Bdw6uRb7EBT0rbVw6GQb53wm-yUiV/view?usp=gmail
+```
